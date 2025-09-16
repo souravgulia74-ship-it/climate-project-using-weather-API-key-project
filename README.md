@@ -1,4 +1,4 @@
-# 🌍 Climate Project using Weather API
+ # 🌍 Climate Project using Weather API
 
 This project is a **Power BI dashboard** that uses a **Weather API** to fetch and analyze climate data.  
 It provides **interactive visualizations** to study weather patterns, temperature trends, and climate variations.
